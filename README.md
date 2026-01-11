@@ -1,6 +1,6 @@
 # Minecraft DDOS Tool V2 - Ultimate Minecraft Server Stresser 🚀
 
-**Made by https://elitestresser.club 🌟**
+**Made by https://renderbyte.site 🌟**
 
 ## 🚀 Introduction
 
@@ -52,7 +52,7 @@ Meet **Minecraft DDOS Tool V2**—your go-to Minecraft server stresser!
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/yourusername/minecraft-ddos-tool-v2.git
+   git clone https://github.com/rredefined/minecraft-ddos-tool-v2.git
    cd minecraft-ddos-tool-v2
    ```
    Replace `yourusername` with your actual GitHub username. 😉
@@ -77,18 +77,18 @@ Meet **Minecraft DDOS Tool V2**—your go-to Minecraft server stresser!
 
 ### ▶️ Launch It:
 
-- 🚀 Window title flips to `Minecraft DDOS Tool V2 By elitestresser.club`.
+- 🚀 Window title flips to `Minecraft DDOS Tool V2 By renderbyte.site`.
 - 🖥️ You’ll see:
    ```
-   __  __       _                          _     _____  _____   _____ 
-  |  /  |     ()                        | |   |  __ |  __ \ /     |
-  | \  / | __ _ _ _ __  _ __   __ _ _ __ | |  | |  | | |  | |  |  |
-  | |/| |/  | | '_ \| '_ \ / _ | ' | | | |  | | |  | |  |  |
-  | |  | | (| | | | | | | | (| | | | | |  | || | || |  |  |
-  ||  ||__,||| ||| ||__,|| ||| |/|__/ ______|
+___________.__                ________  ________          _________
+\_   _____/|__|______  ____   \______ \ \______ \   ____ /   _____/
+ |    __)_ |  \_  __ \/  _ \   |    |  \ |    |  \ /  _ \\_____  \ 
+ |        \|  ||  | \(  <_> )  |    `   \|    `   (  <_> )        \
+/_______  /|__||__|   \____/  /_______  /_______  /\____/_______  /
+        \/                            \/        \/              \/ 
    ```
    
-   *Minecraft DDOS Tool V2 - Made by elitestresser.club*
+   *Minecraft DDOS Tool V2 - Made by renderbyte.site*
 
 ### 🎯 Pick Your Attack:
 
@@ -115,8 +115,8 @@ Meet **Minecraft DDOS Tool V2**—your go-to Minecraft server stresser!
 
 ## 🙌 Credits
 
-- 🌟 Made by [https://elitestresser.club](https://elitestresser.club)!
-- 🔥 Crafted by the server-testing pros at [https://elitestresser.club](https://elitestresser.club).
+- 🌟 Made by [https://renderbyte.site](https://renderbyte.site)!
+- 🔥 Crafted by the server-testing pros at [https://renderbyte.site](https://renderbyte.site)!
 
 🚀 *Your go-to place for elite Minecraft server stress-testing tools!*
 
