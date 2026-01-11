@@ -34,11 +34,11 @@ Meet **Minecraft DDOS Tool V2**—your go-to Minecraft server stresser!
 - 📏 **Packet size** (1-65500 bytes) for UDP/TCP methods.
 
 ### 🖥️ Cool Vibes:
-- 🎨 ASCII art intro with `Made by elitestresser.club`.
+- 🎨 ASCII art intro with `Made by renderbyte.site`.
 - 🌈 **Colors:** Cyan (start), Green (done), Red (errors).
 - ✨ **Emojis:** Rockets (🚀), checks (✅), crosses (❌).
 - 📊 **Counts packets/connections/requests** after each attack.
-- 🏷️ Window title: `Minecraft DDOS Tool V2 By elitestresser.club`.
+- 🏷️ Window title: `Minecraft DDOS Tool V2 By renderbyte.site`.
 
 ---
 
