@@ -79,6 +79,7 @@ Meet **Minecraft DDOS Tool V2**—your go-to Minecraft server stresser!
 
 - 🚀 Window title flips to `Minecraft DDOS Tool V2 By renderbyte.site`.
 - 🖥️ You’ll see:
+
    ```
 ___________.__                ________  ________          _________
 \_   _____/|__|______  ____   \______ \ \______ \   ____ /   _____/
@@ -86,7 +87,6 @@ ___________.__                ________  ________          _________
  |        \|  ||  | \(  <_> )  |    `   \|    `   (  <_> )        \
 /_______  /|__||__|   \____/  /_______  /_______  /\____/_______  /
         \/                            \/        \/              \/ 
-   ```
    
    *Minecraft DDOS Tool V2 - Made by renderbyte.site*
 
